@@ -1,6 +1,6 @@
 # totdo
 
-A new Flutter project.
+A new Flutter project. Do your daily tasks with Flutter and we used Sqflite and state management a Bloc (Cubit);
 
 ## Getting Started
 
